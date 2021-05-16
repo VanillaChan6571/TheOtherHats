@@ -453,8 +453,6 @@
             "condition": "None",
             "name": "Hulk_climb",
             "package": "Developer Hats",
-            "reshasha": "d59b992091b4c1b0cc3bc2eab8864fbe",
-            "reshashc": "ef095b53db3f99c12c20ee05e3954c3b",
             "resource": "eof_bounce.png"
         },
         {
@@ -464,8 +462,6 @@
             "condition": "None",
             "name": "Hulk",
             "package": "Developer Hats",
-            "reshasha": "d59b992091b4c1b0cc3bc2eab8864fbe",
-            "reshashc": "ef095b53db3f99c12c20ee05e3954c3b",
             "resource": "eof_bounce.png"
         },
         {
