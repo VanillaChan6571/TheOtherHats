@@ -33,11 +33,3 @@ The name of the texture needs to follow the pattern hatname_flip.png.
 
 ### Template:
 Feel free to download our template for Illustrator, Photoshop and PNG. It should help you to place your hat correctly. Note: Climbing assets can be a bit tricky since the crewmate moves from left to right while climbing. [(Links on our Discord)](https://discord.com/channels/818086884089659412/838414132776140800/838423406654914572)
-
-### Testing:
-You can test your hat design by putting all the files in the \TheOtherHats\Test subfolder of your mod folder. Then whenever you start a freeplay game, you and all the dummies will be wearing the new hat. You don't need to restart Among Us if you change the hat files, just exit and reenter the freeplay mode.
-
-### Submission:
-— Please do not submit hats from other mods or hats that contain licensed contents, we can't and won't add them.
-— If you got a hat design, you can submit it on our [Discord](https://discord.com/channels/818086884089659412/838414132776140800/838423406654914572)
-— You can submit a picture of how the hat looks like in game or you can submit the hat files themselves :wink:
